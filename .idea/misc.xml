@@ -6,7 +6,9 @@
         <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.334" />
         <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.334" />
         <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.342" />
-        <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_detali.xml" value="0.27575887131252674" />
+        <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Anderson/AndroidStudioProjects/Simulator/app/src/main/res/layout/match_item.xml" value="0.27564102564102566" />
       </map>
     </option>
   </component>
